@@ -11,7 +11,7 @@
   height: 40px;
 }
 body {
-  background-image: url("Unit6/TheOfficeBackground.jpg");
+  background-image: url("TheOfficeBackground.jpg");
   background-size: contain;
 }
 #wrapper{
@@ -20,10 +20,10 @@ body {
   margin-top: 30px;
 }
 ul {
-  list-style-image: url("Unit6/beet32.png");
+  list-style-image: url("beet32.png");
 }
 .specialborder{
   border: 30px solid transparent;
   padding: 3px;
-  border-image: url(Unit6/stapler5.png) 30 round;
+  border-image: url(stapler5.png) 30 round;
 }
