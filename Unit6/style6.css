@@ -1,0 +1,29 @@
+.michael img{
+  width: 300px;
+  height: 300px;
+}
+.main{
+  background-color: slategray;
+  color: azure;
+}
+#borderimg ul img{
+  width: 50px;
+  height: 40px;
+}
+body {
+  background-image: url("Unit6/TheOfficeBackground.jpg");
+  background-size: contain;
+}
+#wrapper{
+  width:60%;
+  margin: auto;
+  margin-top: 30px;
+}
+ul {
+  list-style-image: url("Unit6/beet32.png");
+}
+.specialborder{
+  border: 30px solid transparent;
+  padding: 3px;
+  border-image: url(Unit6/stapler5.png) 30 round;
+}
